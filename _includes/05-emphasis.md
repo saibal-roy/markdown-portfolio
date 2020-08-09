@@ -1,1 +1,1 @@
-* Feels great to learn GIT and GITHUB
+*Feels great to learn GIT and GITHUB*
